@@ -1,0 +1,27 @@
+Consider the Microsoft Learn Unit content below. 
+We are creating a podcast transcript that will help listeners learn about the topic.
+
+- First, create a list of main topics discussed in the article.
+- For each topic, define a number of questions that can actually be answered directly from the content below.
+- You are allowed to combine 2 questions in one, as long as it makes sense and it covers the same main topic.
+- For the answers, make sure to be complete and relevant. Use spoken language, as we will listen to this. 
+
+The final output should be a json document like this:
+
+[
+   { 
+     "id":1, 
+     "question": "What is Microsoft Fabric?", 
+     answer: "Provide the answer here." 
+   },
+   { 
+     "id":2, 
+     "question": "Why would I choose this service?", 
+     answer: "Provide the answer here" 
+   }
+]
+
+Do not emit any markdown syntax.
+
+============
+{contents}

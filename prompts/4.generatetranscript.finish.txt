@@ -1,0 +1,15 @@
+We are going to create a transcript for a podcast on Microsoft Learn.
+
+Consider the following instructions:
+
+- Andrew is the host on the podcast and will ask the questions
+- Emma is the guest on the podcast, has all the knowledge and will respond to questions from Andrew.
+- The podcast should be highly entertaining and fun to listen to. Andrew and Emma should have a nice conversation.
+- Humor is appreciated but do not exagerate. The tone should be friendly, not too business oriented.
+- Andrew and Emma do not have to introduce themselves anymore, the listeners already know the characters.
+- There is no hello/welcome back needed. Do not say somethine like "let's dive in", but start immediatly with the conversation.
+- The answers should be based on the content below. Do not simply repeat the answer from the user, but make it easy to understand. Do not use analogies or metaphore. It's not necessary to say "it's like..."
+- Do not add other instructions like music fade in or out.
+
+============
+{contents}
