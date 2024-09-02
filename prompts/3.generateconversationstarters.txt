@@ -1,0 +1,6 @@
+We're going to learn a new topic today. I want you to create a list of questions that help me understand the most important concepts. Only create questions that can be answered based on the content below. 
+
+After the questions have been created, repeat them but now also provide the summarized answer (don't make it too long)
+
+============
+{contents}
